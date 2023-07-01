@@ -1,0 +1,6 @@
+click==8.0.1
+colorama==0.4.4
+cx_PyGenLib==3.2
+flanders==0.3.0
+ldap3==2.9.1
+pyasn1==0.4.8
